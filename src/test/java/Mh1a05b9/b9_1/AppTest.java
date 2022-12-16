@@ -1,11 +1,9 @@
 package Mh1a05b9.b9_1;
 
-import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertTrue;
+import static org.junit.Assert.*;
+
 
 import org.junit.Test;
-
-import Experiment_11.Experiment_11.App;
 
 /**
  * Unit test for simple App.
